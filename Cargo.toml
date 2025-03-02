@@ -1,5 +1,15 @@
 [package]
 name = "shaddup"
+description = "Suppress stdout and stderr of the current program. Works on Unix"
+authors = ["Danya Generalov danya02@github"]
+readme = "README.md"
+homepage = "https://github.com/danya02/shaddup-rs"
+repository = "https://github.com/danya02/shaddup-rs"
+license = "MIT"
+
+keywords=["stdout", "stderr", "quiet"]
+categories=["os", "os:unix-apis"]
+
 version = "0.1.0"
 edition = "2024"
 
