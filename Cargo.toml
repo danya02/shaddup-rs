@@ -8,7 +8,7 @@ repository = "https://github.com/danya02/shaddup-rs"
 license = "MIT"
 
 keywords=["stdout", "stderr", "quiet"]
-categories=["os", "os:unix-apis"]
+categories=["os", "os::unix-apis"]
 
 version = "0.1.0"
 edition = "2024"
